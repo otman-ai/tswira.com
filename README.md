@@ -4,7 +4,7 @@ tswira.com is image generator tool that can generate up to 100 of images of anyo
 
 ## Video Demo
 
-![Tswira Demo](demo/demo-video.mp4)
+![Tswira Demo](demo/demo.mp4)
 
 ## Project stucture
 
