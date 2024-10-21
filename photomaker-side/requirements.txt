@@ -1,0 +1,4 @@
+replicate
+gradio
+python-dotenv
+boto3

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.truncate {
+    overflow: hidden;       /* Hide the overflow content */
+    white-space: nowrap;    /* Prevent text from wrapping */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+}
